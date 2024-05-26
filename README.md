@@ -31,10 +31,10 @@ In my free time, I love learning more about the tech industry, reading blogs, an
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## Works
+<div align="center">  
 
-- ###### 😉 I’m currently working on RaccoonDevs https://github.com/KStuardo/ProyectoWeb  
+- 😉 I’m currently working on RaccoonDevs https://github.com/KStuardo/ProyectoWeb  
   
 
 - 🤨 I’m currently learning Frontend  
@@ -42,15 +42,7 @@ In my free time, I love learning more about the tech industry, reading blogs, an
 
 - 🤫 I prefer coffee over tea.  
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -87,13 +79,7 @@ In my free time, I love learning more about the tech industry, reading blogs, an
 
 <br/>  
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Chrabanal&&style=flat-square)  
-  
-
+ 
 <br/>  
 
 
@@ -104,7 +90,7 @@ In my free time, I love learning more about the tech industry, reading blogs, an
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=chrabanal&&style=flat-square" align="center" />
 </div>  
   
 
