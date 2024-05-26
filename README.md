@@ -32,7 +32,7 @@ In my free time, I love learning more about the tech industry, reading blogs, an
 
 
 ## Works
-<div align="center">  
+
 
 - 😉 I’m currently working on RaccoonDevs https://github.com/KStuardo/ProyectoWeb  
   
@@ -42,7 +42,7 @@ In my free time, I love learning more about the tech industry, reading blogs, an
 
 - 🤫 I prefer coffee over tea.  
 
-</div>  
+
 
 <br/>  
 
@@ -58,7 +58,6 @@ In my free time, I love learning more about the tech industry, reading blogs, an
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" /></a>  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="25" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
 </div>  
