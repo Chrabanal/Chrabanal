@@ -12,7 +12,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.codechef.com/users/charlien" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt=charlien style="margin-bottom: 5px;" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=charlien style="margin-bottom: 5px;" />
 </div>  
   
 
